@@ -8,4 +8,4 @@ Documentation can be found at [documentation](https://github.com/MaxiDrive/Docs)
 
 ## Architecture
 
-![infrastructure](https://github.com/MaxiDrive/Docs/blob/main/Assets/Architecture/ArchitectureMaxiDrive.svg)
+![infrastructure](https://github.com/MaxiDrive/Docs/blob/main/Assets/Architecture/ArchitectureMaxiDrive.png)
